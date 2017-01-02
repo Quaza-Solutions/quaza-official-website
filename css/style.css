@@ -2415,7 +2415,10 @@ margin-left: 250px;
 .white-div {
 	background-color: #ffffff;
 }
-
+.white-div-2 {
+	background-color: #ffffff;
+	padding: 20px 0;
+}
 .logo-final {
 	height: 140px;
 }
@@ -2423,7 +2426,9 @@ margin-left: 250px;
 .dark-blue {
 	background-color: #1A3E6F;	
 }
-
+.dark-blue-fonts {
+	color: #1A3E6F;	
+}
 .navigation li {
 	float: left;
 	display: block;
@@ -2494,4 +2499,11 @@ background-image: url("../images/Solutions-Header.jpg");
 .social-media-icons-footer {
 	width: 50px;
 	margin-left: 30px;
+}
+
+.turquoise {
+	color: #05BED1;
+}
+.white-fonts {
+	color: #ffffff;
 }
