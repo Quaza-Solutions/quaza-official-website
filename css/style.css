@@ -2474,6 +2474,19 @@ background-image: url("../images/About-Us-Header.jpg");
   width: 100%;
   height: 300px;
 }
+
+.partners {
+background-image: url("../images/Partners-Clients-Header copy.jpg"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
+
 .strategic {
 background-image: url("../images/Strategy-Image2.jpg"); 
  -webkit-background-size: cover;
@@ -2533,7 +2546,17 @@ background-image: url("../images/Header-Image4.jpg");
 	color: #1A3E6F;
 	font-size: 22px;
 }
+.dark-blue-text-2{
+	color: #1A3E6F;
+	font-size: 28px;
+	font-weight: bold;
+}
 
+.dark-blue-text-3{
+	color: #1A3E6F;
+	font-size: 20px;
+	font-weight: bold;
+}
 .social-media-icons-footer {
 	width: 50px;
 	margin-left: 30px;
@@ -2542,7 +2565,10 @@ background-image: url("../images/Header-Image4.jpg");
 .turquoise {
 	color: #05BED1;
 }
-
+.title-3 {
+	font-size: 66px;
+	font-weight: bold;
+}
 .turquoise-text{
 	color: #05BED1;
 	font-weight: bold;
@@ -2615,4 +2641,112 @@ background-image: url("../images/Header-Image4.jpg");
 .small-circles{
 	margin: 340px auto auto auto;
 	text-align: center;
+}
+
+.client-logo-1 {
+	width: 230px;
+}
+
+.client-logo-2 {
+	width: 250px;
+}
+
+.client-logo-3 {
+	width: 320px;
+}
+
+.client-logo-4 {
+	width: 230px;
+}
+
+.client-logo-5 {
+	width: 236px;
+}
+
+.client-logo-6 {
+	width: 238px;
+}
+.client-logo-7 {
+	width: 232px;
+}
+.client-logo-8 {
+	width: 238px;
+}
+.client-box {
+	width: 300px;
+	height: 300px;
+}
+
+.client-box-1 {
+padding: 20px;
+margin: 40px 20px 20px -110px;
+}
+
+.client-box-2 {
+padding: 20px;
+margin: 26px 20px 20px -44px;
+}
+
+.client-box-3 {
+padding: 20px;
+margin: -6px 20px 20px 0px;
+}
+
+.client-box-4 {
+padding: 20px;
+margin: -40px 20px 20px -110px;
+}
+
+.client-box-5 {
+padding: 20px;
+margin: -40px 20px 20px -40px;
+}
+.client-box-6 {
+padding: 20px;
+margin: -40px 20px 20px 40px;
+}
+
+.client-box-7 {
+padding: 20px;
+margin: -34px 20px 20px -110px;
+}
+
+.client-box-8 {
+padding: 20px;
+margin: -34px 20px 20px -40px;
+}
+
+
+
+.part-1 {
+	width: 120px;
+	margin-left: 24px;
+background-color: #05BED1; 
+height: 3px;
+}
+
+.part-2 {
+	width: 90px;
+	margin-left: 80px;
+background-color: #05BED1; 
+height: 3px;
+}
+
+.part-3 {
+	width: 200px;
+	margin-left: 110px;
+background-color: #05BED1; 
+height: 3px;
+}
+.part-4 {
+	width: 100px;
+	margin-left: 260px;
+	background-color: #05BED1; 
+height: 3px;
+}
+.part-5 {
+	width: 100px;
+	margin-left: 310px;
+	background-color: #05BED1; 
+height: 3px;
 }
