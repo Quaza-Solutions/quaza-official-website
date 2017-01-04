@@ -2498,6 +2498,111 @@ background-image: url("../images/Strategy-Image2.jpg");
   width: 100%;
   height: 300px;
 }
+.our-team {
+background-image: url("../images/Team-Header.jpg"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
+
+.our-team-1 {
+background-image: url("../images/Team-Icons-01.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+.our-team-2 {
+background-image: url("../images/Team-Icons-02.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+.our-team-3 {
+background-image: url("../images/Team-Icons-03.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+.our-team-4 {
+background-image: url("../images/Team-Icons-04.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+.our-team-5 {
+background-image: url("../images/Team-Icons-05.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+.our-team-6 {
+background-image: url("../images/Team-Icons-06.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+.our-team-7 {
+background-image: url("../images/Team-Icons-07.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+.our-team-8 {
+background-image: url("../images/Team-Icons-08.png"); 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
 
 .design {
 background-image: url("../images/Header-Image4.jpg"); 
